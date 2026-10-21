@@ -1,0 +1,6 @@
+{
+  "name": "EduPet Island - Game Edukasi SD Canggih",
+  "description": "Platform game edukasi interaktif berbasis AI dan gamifikasi untuk siswa SD dengan kuis adaptif, voice recognition, petualangan pulau belajar, virtual pet companion, dan dashboard analitik guru & orang tua.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
